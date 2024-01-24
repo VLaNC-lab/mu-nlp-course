@@ -1,0 +1,7 @@
+.marg {
+    margin: 5%;
+}
+
+li > a {
+    color: black;
+}

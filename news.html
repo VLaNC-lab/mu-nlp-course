@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>News</title>
+  <link rel="stylesheet" href="navbar2.css">
+  <link rel="stylesheet" href="news.css">
+</head>
+<body>
+<header>
+  <nav class="navigationWrapper">
+    <div class="logoWrapper">
+      <a class="link" href="index.html">
+        <span class="stylish">Stylish</span>
+        <span class="logo">Logo</span>
+      </a>
+    </div>
+    <ul class="navigation">
+      <li class="parent"><a class="link" href="index.html">Home</a></li>
+      <li class="parent"><a class="link" href="teachings.html">Teachings</a></li>
+      <li class="parent"><a class="link" href="publications.html">Publications</a></li>
+      <li class="parent"><a class="link" href="news.html">News</a></li>
+      <li class="parent"><a class="link" href="project.html">Project</a></li>
+      <li class="parent"><a class="link" href="Team-final.html">People</a></li>     
+    </ul>
+  </nav>
+  <script src="navbar2.js"></script>
+</header>
+
+<main>
+    <div style="padding-top: 4%;">
+        <div class="carousel">
+            <div class="carousel-slide active">
+                <img src="images/group2.jpeg" alt="Slide 1">
+                <div class="text">IIIT Hyderabad Visit</div>
+            </div>
+            <div class="carousel-slide">
+                <img src="images/group3.jpeg" alt="Slide 2">
+                <div class="text"></div>
+            </div>
+            <div class="carousel-slide">
+                <img src="images/group4.jpeg" alt="Slide 3">
+                <div class="text"></div>
+            </div>
+            <div class="carousel-slide">
+                <img src="images/group5.jpeg" alt="Slide 2">
+                <div class="text"></div>
+            </div>
+            <div class="carousel-prev">&#10094;</div>
+            <div class="carousel-next">&#10095;</div>
+        </div>
+        <script>
+            const carouselSlide = document.querySelectorAll('.carousel-slide');
+            const prevBtn = document.querySelector('.carousel-prev');
+            const nextBtn = document.querySelector('.carousel-next');
+    
+            let currentSlide = 0;
+    
+            function showSlide(index) {
+                carouselSlide.forEach((slide, i) => {
+                    slide.classList.remove('active');
+                    if (i === index) {
+                        slide.classList.add('active');
+                    }
+                });
+            }
+    
+            prevBtn.addEventListener('click', () => {
+                currentSlide--;
+                if (currentSlide < 0) {
+                    currentSlide = carouselSlide.length - 1;
+                }
+                showSlide(currentSlide);
+            });
+    
+            nextBtn.addEventListener('click', () => {
+                currentSlide++;
+                if (currentSlide >= carouselSlide.length) {
+                    currentSlide = 0;
+                }
+                showSlide(currentSlide);
+            });
+    
+            showSlide(currentSlide);
+        </script>       
+    </div>
+</main>
+</body>
+</html>

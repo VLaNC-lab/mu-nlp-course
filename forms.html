@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Simple login form</title>
+    <link href="forms.css" rel="stylesheet">
+  </head>
+  <body>
+    <form>
+        <div class="contactus">
+            <h1>Contact Us:</h1>
+            <p><strong>Ph no:</strong> **********</p>
+            <p><strong>Email:</strong> contactus@mail.com</p>
+            <p><strong>More Information:</strong><br>
+                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Officiis vel fuga deserunt! Nulla labore quibusdam eius amet? Accusamus, magni officia.
+            </p>
+            <p>
+                Register for further updates and get notification to work with us.
+            </p>
+        </div>
+        <h1 style="padding-top: 5px;">Registration Form</h1>
+        <div class="formcontainer">
+        <hr style="border: black 1px solid;"/>
+        <div class="container">
+            <label for="name"><strong>Name: <span class="star">*</span></strong></label>
+            <input type="text" placeholder="Enter Name" name="name" required>
+            <p style="padding-bottom: 0px;"></p>
+
+            <label for="pho"><strong>Phone Number: <span class="star">*</span></strong></label>
+            <input type="tel" pattern="[0-9]{0,10}" placeholder="Enter Phone Number" name="phone" required>
+            <p style="padding-bottom: 0px;"></p>
+
+            <label for="email"><strong>Email ID: <span class="star">*</span></strong></label>
+            <input type="email" placeholder="Enter Email ID" name="email" required>
+            <p style="padding-bottom: 0px;"></p>
+
+            <label for="website"><strong>Your Website, Ex: <a href="https://sites.google.com/a/iiitd.ac.in/nidhigoyal/"> https://sites.google.com/a/iiitd.ac.in/nidhigoyal/ </a></strong></label>
+            <input type="url" placeholder="Enter Website Link" name="website">
+            <p style="padding-bottom: 0px;"></p>
+
+            <label for="onedrive"><strong>Link to your publicly accessible CV (OneDrive, Google Drive, Dropbox...). Make sure it is accessible publicly, with view access to everyone :</strong></label>
+            <input type="url" placeholder="Enter Website Link" name="onedrive">
+        </div>
+        <input type="submit" name="submit" value="submit">
+    </form>
+  </body>
+</html>

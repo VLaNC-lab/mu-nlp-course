@@ -1,0 +1,108 @@
+.marg {
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.stylish {
+    color: white;
+}
+.stylish:hover {
+    color: #ea4f4c;
+}
+
+.row{
+    padding: 10px;
+}
+
+.size {
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+.h {
+    font-size: 18px;
+    line-height: 1.5;
+    margin-bottom: 30px;
+}
+
+.block {
+    width: 5px;
+    height: 100%;
+    background-color: black;
+}
+
+.sources {
+    border-radius: 5px;
+    font-size: 15px;
+    padding: 3px;
+}
+
+.paper {
+    background-color: #5cb85c;
+}
+.slides {
+    background-color: #f0ad4e;
+}
+.code {
+    background-color: #5bc0de;
+}
+.bibs {
+    background-color: rgb(246, 63, 63);
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: rgb(245, 245, 229);
+    min-width: 800px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.5);
+    padding: 12px 16px;
+    z-index: 1;
+    right: 0;
+    border: black 2px solid;
+    border-radius: 10px;
+    font-size: 14px;
+    transition: all 0.3s ease-in-out;
+}
+ 
+button {
+    width: 60px;
+    height: 30px;
+    background-color: #5cb85c;
+    color: white;
+    border-radius: 10px;
+    box-shadow: grey;
+    position: absolute; 
+    right: 0;
+    margin-right: 10px;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+a {
+    color: black;
+}
+.h a:hover {
+    color: black;
+}
+
+.imgs {
+    padding: 3px;
+    background-color: rgb(162, 162, 162);
+    font-size: 13px;
+    border-radius: 4px;
+    display: inline-block;
+    margin-right: 5px;
+}
+
+@media (max-width: 800px) {
+    .row {
+        padding-top: 14%;
+    }
+}
