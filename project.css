@@ -1,0 +1,15 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 16px; 
+}
+
+.grid-item {
+    padding: 16px; 
+    text-align: center; 
+}
+
+.card {
+    width: 18rem;
+    filter: drop-shadow(#868585 0.3rem 0.3rem 20px);
+}

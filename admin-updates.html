@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Update Paragraphs </title>
+    <style>
+        body {
+            background-color: bisque;
+            font-size: 20px
+        }
+        .heading {
+            font-size: 28px;
+            padding: 10px;
+            padding-bottom: 0;
+            margin-bottom: 0;
+        }
+        .admin {
+            padding-left: 10px;
+            padding-bottom: 20px;
+        }
+        #userInput1, #userInput2, #userInput3  {
+            width: 80%;
+            height: 80px;
+            border-radius: 5px;
+            font-size: 14px;
+            padding-left: 10px;
+        }
+        .up {
+            width: 10%;
+            height: 80px;
+            border-radius: 5px;
+            font-size: 14px;
+        }
+        span{
+           display: flex;
+           justify-content: end;
+           padding-right: 400px;
+        }
+        .all {
+            display: flex;
+            justify-content: center;
+            background-color: whitesmoke;
+            border-radius: 5px;
+            font-size: 25px;
+            width: 200px;
+            height: 30px;
+            border: 2px solid black;
+            text-decoration: none;
+            color: black;
+        }
+        a:hover {
+            color: purple;
+        }
+        .change {
+            width: 10%; 
+            height: 50px; 
+            margin-top: 30px; 
+            border-radius: 5px; 
+            font-size: 16px;
+            margin-left: 40%;
+        }
+        @media (max-width: 800px) {
+            .up {
+                display: flex;
+                flex-direction: column;
+                width: 40%;
+                height: 30px;
+                align-items: center;
+                justify-content: center;
+                margin-top: 10px;
+                margin-left: 32%; 
+            }
+            #userInput1, #userInput2, #userInput3 {
+                margin-left: 10%;
+            }
+            .change {
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                margin-left: 32%;
+                width: 40%;
+                height: 30px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <p class="heading">Update Points To New Points:</p>
+    <p class="admin">This is admin page to make changes to paragraphs in the home page.</p>    
+    <form action="admin-save.php" method="post">
+        <label for="date"><strong>Date:</strong></label>
+        <input style="width: 200px; height: 30px; border-radius: 5px; padding: 10px 10px 10px 35px; font-size: 16px;" type="date" id="date" name="date" placeholder="Enter Date" required>
+        <br><br>
+
+        <!-- Input fields for user input -->
+        <input type="text" id="userInput1" name="text1" placeholder="Enter text for Paragraph 1">
+        <button class="up" onclick="updateParagraph(1)">Update Paragraph 1</button>
+        <br><br>
+
+        <input type="text" id="userInput2" name="text2" placeholder="Enter text for Paragraph 2">
+        <button class="up" onclick="updateParagraph(2)">Update Paragraph 2</button>
+        <br><br>
+
+        <input type="text" id="userInput3" name="text3" placeholder="Enter text for Paragraph 2">
+        <button class="up" onclick="updateParagraph(3)">Update Paragraph 3</button>
+        <br><br>
+
+        <!-- Update All button -->
+        <button type="submit" class="change" onclick="updateAll()">Update All</button>
+        <br><br>
+    </form>
+    <!-- Link to the second page -->
+    <span>
+        <a class="all" href="index.html">Go to Home Page</a>
+    </span>
+
+    <script>
+        function updateParagraph(paragraphNumber) {
+            var userInput = document.getElementById("userInput" + paragraphNumber).value;
+            localStorage.setItem("userInput" + paragraphNumber, userInput);
+        }
+
+        function updateAll() {
+            for (var i = 1; i <= 3; i++) {
+                var userInput = document.getElementById("userInput" + i).value;
+                if (userInput.trim() !== "") {
+                    localStorage.setItem("userInput" + i, userInput);
+                }
+            }
+        }
+    </script>
+
+</body>
+</html>
