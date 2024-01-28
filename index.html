@@ -51,23 +51,27 @@
       </form>
     </div>
 
-      <div style="margin: 4%;">
+      <div style="margin: 4%; display: flex;">
+
+        <div>
+          <div class="new"><strong>What's New ?</strong></div>
+          
+          <span class="paras">
+            <ul>
+              <!-- Display updated paragraphs -->
+              <li><p>P1: <span id="display1"></span></p></li>
+              <li><p>P2: <span id="display2"></span></p></li>
+              <li><p>P3: <span id="display3"></span></p></li>
+            </ul>
+          </span>
+        </div>
+
+
         <div class="imgs">
           <img src="qr.png">
           <a class="forms" href="forms.html">Click Here</a>
         </div>
         
-        <div class="new"><strong>What's New ?</strong></div>
-        
-        <span class="paras">
-          <ul>
-            <!-- Display updated paragraphs -->
-            <li><p>P1: <span id="display1"></span></p></li>
-            <li><p>P2: <span id="display2"></span></p></li>
-            <li><p>P3: <span id="display3"></span></p></li>
-          </ul>
-        </span>
-
         <script>
             // Retrieve data from localStorage and display
             document.getElementById("display1").innerText = localStorage.getItem("userInput1") || "Not updated";
