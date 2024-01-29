@@ -6,3 +6,37 @@
     font-size: 21px;
     padding-bottom: 110px;
 }
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* Two columns */
+    gap: 20px; /* Gap between grid items */
+}
+
+.grid-item {
+    text-align: center;
+}
+
+.centered-image {
+    grid-column: span 2; /* Span two columns */
+    text-align: center;
+}
+
+.centered-image > img {
+    width: 16%;
+    height: auto;
+    margin-top: 50px;
+    padding-bottom:10px;
+}
+
+img {
+    width: 30%; /* Ensure images don't exceed their container */
+    height: auto; /* Maintain aspect ratio */
+}
+
+@media (max-width: 600px) {
+   .grid-container {
+    display: flex;
+    flex-direction: column;
+   }
+}
