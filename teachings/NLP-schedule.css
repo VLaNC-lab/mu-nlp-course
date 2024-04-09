@@ -22,11 +22,15 @@
     padding-top: 6px;
 }
 
-.links > a {
+.links > a, li > a {
     color: blue;
 }
 
-a:hover {
+a:hover, li > a:hover {
     color: #ea4f4c;
     text-decoration: underline;
+}
+
+li {
+    padding-bottom: 10px;
 }
