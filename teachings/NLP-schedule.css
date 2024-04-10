@@ -34,3 +34,10 @@ a:hover, li > a:hover {
 li {
     padding-bottom: 10px;
 }
+
+.red {
+    /* color: #ea4f4c;  */
+    color: red;
+    padding: 0%; 
+    margin: 0%;
+}
