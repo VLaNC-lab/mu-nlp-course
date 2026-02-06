@@ -1,6 +1,6 @@
-:HL["/_next/static/chunks/dffeff36c98fe779.css","style"]
-:HL["/_next/static/chunks/d9233bc61d31e03e.css","style"]
-:HL["/_next/static/media/797e433ab948586e-s.p.dbea232f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/e8f2fbee2754df70-s.p.9b7a96b4.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/mu-nlp-course/_next/static/chunks/dffeff36c98fe779.css","style"]
+:HL["/mu-nlp-course/_next/static/chunks/d9233bc61d31e03e.css","style"]
+:HL["/mu-nlp-course/_next/static/media/797e433ab948586e-s.p.dbea232f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/mu-nlp-course/_next/static/media/e8f2fbee2754df70-s.p.9b7a96b4.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/logo.webp","image"]
-0:{"buildId":"nGmEQQIUNHExqH9xESOVq","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"teachings","paramType":null,"paramKey":"teachings","hasRuntimePrefetch":false,"slots":{"children":{"name":"slides-fall-2024","paramType":null,"paramKey":"slides-fall-2024","hasRuntimePrefetch":false,"slots":{"children":{"name":"slides-index.html","paramType":null,"paramKey":"slides-index.html","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"7f8oxV5WJFPgH4BHW5Ihh","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"teachings","paramType":null,"paramKey":"teachings","hasRuntimePrefetch":false,"slots":{"children":{"name":"slides-fall-2024","paramType":null,"paramKey":"slides-fall-2024","hasRuntimePrefetch":false,"slots":{"children":{"name":"slides-index.html","paramType":null,"paramKey":"slides-index.html","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
