@@ -1,6 +1,6 @@
-:HL["/mu-nlp-course/_next/static/chunks/dffeff36c98fe779.css","style"]
-:HL["/mu-nlp-course/_next/static/chunks/d9233bc61d31e03e.css","style"]
-:HL["/mu-nlp-course/_next/static/media/797e433ab948586e-s.p.dbea232f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/mu-nlp-course/_next/static/media/e8f2fbee2754df70-s.p.9b7a96b4.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/logo.webp","image"]
-0:{"buildId":"7f8oxV5WJFPgH4BHW5Ihh","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"books","paramType":null,"paramKey":"books","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+:HL["/mu-nlp-course/vlanc-lab/_next/static/chunks/dffeff36c98fe779.css","style"]
+:HL["/mu-nlp-course/vlanc-lab/_next/static/chunks/601919e33c007282.css","style"]
+:HL["/mu-nlp-course/vlanc-lab/_next/static/media/797e433ab948586e-s.p.dbea232f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/mu-nlp-course/vlanc-lab/_next/static/media/e8f2fbee2754df70-s.p.9b7a96b4.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/mu-nlp-course/vlanc-lab/logo.webp","image"]
+0:{"buildId":"3rsSo6N0EXbAX-Iykwjaw","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"books","paramType":null,"paramKey":"books","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
