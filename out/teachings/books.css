@@ -1,0 +1,50 @@
+.books > li {
+    line-height: 35px;
+}
+
+.books {
+    font-size: 21px;
+    padding-bottom: 110px;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* Two columns */
+    gap: 20px; /* Gap between grid items */
+}
+
+.grid-item {
+    text-align: center;
+}
+
+.centered-image {
+    grid-column: span 2; /* Span two columns */
+    text-align: center;
+}
+
+.centered-image > img {
+    width: 16%;
+    height: auto;
+    margin-top: 50px;
+}
+
+img {
+    width: 30%; /* Ensure images don't exceed their container */
+    height: auto; /* Maintain aspect ratio */
+    margin-bottom: 20px;
+}
+
+a {
+    color: blue;
+}
+
+a:hover {
+    color: #ea4f4c;
+}
+
+@media (max-width: 600px) {
+   .grid-container {
+    display: flex;
+    flex-direction: column;
+   }
+}

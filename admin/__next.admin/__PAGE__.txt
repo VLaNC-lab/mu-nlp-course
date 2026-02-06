@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[39923,["/_next/static/chunks/f9fa86c1e5829e90.js","/_next/static/chunks/f721aa8f63c186a3.js","/_next/static/chunks/1bb79dbbd8943828.js","/_next/static/chunks/41df12f572ff64b4.js"],"AdminUpdates"]
+3:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"QMBJtO0dJHoPVsYttbx0N","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-3xl px-4 py-10","children":[["$","div",null,{"className":"space-y-2","children":[["$","h1",null,{"className":"text-h1 font-semibold tracking-tight","children":"Admin"}],["$","p",null,{"className":"text-muted-foreground leading-relaxed","children":"Update the home page points."}]]}],["$","div",null,{"className":"mt-8","children":["$","$L2",null,{}]}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/41df12f572ff64b4.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null
