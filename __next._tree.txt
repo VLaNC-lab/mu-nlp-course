@@ -5,4 +5,4 @@
 :HL["/logo.webp","image"]
 :HL["/images/mainpgpic.webp","image"]
 :HL["/images/qr.webp","image"]
-0:{"buildId":"E533K45LKP7H51Zvp_x8E","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"nGmEQQIUNHExqH9xESOVq","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
