@@ -1,0 +1,16 @@
+li > a {
+    color: blue;
+}
+
+li {
+    line-height: 30px;
+}
+
+li > a:hover {
+    color: #ea4f4c;
+    text-decoration: underline;
+}
+
+.marg {
+    padding-bottom: 11px;
+}
