@@ -1,6 +1,6 @@
-:HL["/mu-nlp-course/_next/static/chunks/dffeff36c98fe779.css","style"]
-:HL["/mu-nlp-course/_next/static/chunks/dd7b68b2cbcdfce1.css","style"]
+:HL["/mu-nlp-course/_next/static/chunks/d71c64359b385b95.css","style"]
+:HL["/mu-nlp-course/_next/static/chunks/ca1fe7bedf895703.css","style"]
+:HL["/mu-nlp-course/_next/static/media/0c89a48fa5027cee-s.p.4564287c.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/mu-nlp-course/_next/static/media/797e433ab948586e-s.p.dbea232f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/mu-nlp-course/_next/static/media/e8f2fbee2754df70-s.p.9b7a96b4.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/mu-nlp-course/logo.webp","image"]
-0:{"buildId":"FUFQ7473QZTs3Qf42zQW8","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"teachings","paramType":null,"paramKey":"teachings","hasRuntimePrefetch":false,"slots":{"children":{"name":"Spring2024-readings.html","paramType":null,"paramKey":"Spring2024-readings.html","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"krqxzPtzDoPpo7ON6H005","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"teachings","paramType":null,"paramKey":"teachings","hasRuntimePrefetch":false,"slots":{"children":{"name":"Spring2024-readings.html","paramType":null,"paramKey":"Spring2024-readings.html","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
