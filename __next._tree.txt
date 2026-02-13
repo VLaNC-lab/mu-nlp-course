@@ -1,6 +1,6 @@
 :HL["/mu-nlp-course/_next/static/chunks/d71c64359b385b95.css","style"]
-:HL["/mu-nlp-course/_next/static/chunks/4d36d43d8aa68e65.css","style"]
+:HL["/mu-nlp-course/_next/static/chunks/b31b5abf0fb150c6.css","style"]
 :HL["/mu-nlp-course/_next/static/media/0c89a48fa5027cee-s.p.4564287c.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/mu-nlp-course/_next/static/media/797e433ab948586e-s.p.dbea232f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/mu-nlp-course/_next/static/media/e8f2fbee2754df70-s.p.9b7a96b4.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"buildId":"8y7JKJ5vk_q5ziuu24Pb_","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"QdH0M2zTCCr0SR1pcmQus","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
