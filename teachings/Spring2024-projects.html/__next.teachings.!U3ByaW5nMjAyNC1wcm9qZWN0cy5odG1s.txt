@@ -1,4 +1,4 @@
 1:"$Sreact.fragment"
 2:I[39756,["/mu-nlp-course/_next/static/chunks/ff1a16fafef87110.js","/mu-nlp-course/_next/static/chunks/d2be314c3ece3fbe.js"],"default"]
 3:I[37457,["/mu-nlp-course/_next/static/chunks/ff1a16fafef87110.js","/mu-nlp-course/_next/static/chunks/d2be314c3ece3fbe.js"],"default"]
-0:{"buildId":"QdH0M2zTCCr0SR1pcmQus","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"-X3mgsptCB0glRbcVJ8j9","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
