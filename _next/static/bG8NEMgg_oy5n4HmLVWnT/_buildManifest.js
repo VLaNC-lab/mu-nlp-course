@@ -1,7 +1,12 @@
 self.__BUILD_MANIFEST = {
   "__rewrites": {
     "afterFiles": [],
-    "beforeFiles": [],
+    "beforeFiles": [
+      {
+        "source": "/mu-nlp-course//_next/:path+",
+        "destination": "/mu-nlp-course/_next/:path+"
+      }
+    ],
     "fallback": []
   },
   "sortedPages": [
