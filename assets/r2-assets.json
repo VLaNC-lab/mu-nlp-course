@@ -1,0 +1,569 @@
+{
+	"generatedAt": "2026-08-07T16:46:04.800Z",
+	"bucket": "vlanc-lab-assets",
+	"publicBaseUrl": "https://pub-000522b32b43409e9f02812b25914a66.r2.dev",
+	"assetPrefix": "vlanc-lab/assets",
+	"count": 80,
+	"assets": {
+		"/docs/2019_Con2KG.pdf": {
+			"key": "vlanc-lab/assets/docs/2019_Con2KG.pdf",
+			"url": "https://pub-000522b32b43409e9f02812b25914a66.r2.dev/vlanc-lab/assets/docs/2019_Con2KG.pdf",
+			"size": 1070808,
+			"contentType": "application/pdf",
+			"sha256": "1d96ccdecdf9938237d82b6ff377a671df5668dba59209e160a21bf1d6256ca9"
+		},
+		"/docs/2021_July_KCNet-slides.pdf": {
+			"key": "vlanc-lab/assets/docs/2021_July_KCNet-slides.pdf",
+			"url": "https://pub-000522b32b43409e9f02812b25914a66.r2.dev/vlanc-lab/assets/docs/2021_July_KCNet-slides.pdf",
+			"size": 926249,
+			"contentType": "application/pdf",
+			"sha256": "c67ca434b7edf4b97aab7ffb346a3517a6b17822d3fba1aef32f325af5ba6c8e"
+		},
+		"/docs/2021_July_KCNet.pdf": {
+			"key": "vlanc-lab/assets/docs/2021_July_KCNet.pdf",
+			"url": "https://pub-000522b32b43409e9f02812b25914a66.r2.dev/vlanc-lab/assets/docs/2021_July_KCNet.pdf",
+			"size": 449858,
+			"contentType": "application/pdf",
+			"sha256": "be835e43a365528e9144f00b2059d1e942428a294f873ffb0b4b0ed44abbdf3b"
+		},
+		"/docs/2021_June_Spy_the_lie.pdf": {
+			"key": "vlanc-lab/assets/docs/2021_June_Spy_the_lie.pdf",
+			"url": "https://pub-000522b32b43409e9f02812b25914a66.r2.dev/vlanc-lab/assets/docs/2021_June_Spy_the_lie.pdf",
+			"size": 576185,
+			"contentType": "application/pdf",
+			"sha256": "d697480fe3449a9a1eae59bf5100af595df35ab2a20ef943b027d7eb01e54d5d"
+		},
+		"/docs/JobXMLC_EACL.pdf": {
+			"key": "vlanc-lab/assets/docs/JobXMLC_EACL.pdf",
+			"url": "https://pub-000522b32b43409e9f02812b25914a66.r2.dev/vlanc-lab/assets/docs/JobXMLC_EACL.pdf",
+			"size": 1170396,
+			"contentType": "application/pdf",
+			"sha256": "389ea0b3af05d5267186408e61044116491cc44ca3f0db7deea4707aeb0fcb23"
+		},
+		"/docs/Warning_It's_a_scam_CODS-COMAD_2023.pdf": {
+			"key": "vlanc-lab/assets/docs/Warning_It's_a_scam_CODS-COMAD_2023.pdf",
+			"url": "https://pub-000522b32b43409e9f02812b25914a66.r2.dev/vlanc-lab/assets/docs/Warning_It's_a_scam_CODS-COMAD_2023.pdf",
+			"size": 544495,
+			"contentType": "application/pdf",
+			"sha256": "8b78c887fcc3b2a7b50cfb5e758b6f8fde5ce5ca5a335e67f42d56bdd572ca9f"
+		},
+		"/docs/a_semantic_study_on_video_summarization.pdf": {
+			"key": "vlanc-lab/assets/docs/a_semantic_study_on_video_summarization.pdf",
+			"url": "https://pub-000522b32b43409e9f02812b25914a66.r2.dev/vlanc-lab/assets/docs/a_semantic_study_on_video_summarization.pdf",
+			"size": 1635219,
+			"contentType": "application/pdf",
+			"sha256": "30b54eb1505ec1f8348749b02348d806fae6001131a5d52804902cabd4b8e37f"
+		},
+		"/docs/askitright_preprint_ijcnn.pdf": {
+			"key": "vlanc-lab/assets/docs/askitright_preprint_ijcnn.pdf",
+			"url": "https://pub-000522b32b43409e9f02812b25914a66.r2.dev/vlanc-lab/assets/docs/askitright_preprint_ijcnn.pdf",
+			"size": 8443600,
+			"contentType": "application/pdf",
+			"sha256": "cde8ba94f710dd328b6793a05cfaf7253f8cf4b95cc749f175d5fc0e0a712387"
+		},
+		"/docs/attrisage_eacl-srw.pdf": {
+			"key": "vlanc-lab/assets/docs/attrisage_eacl-srw.pdf",
+			"url": "https://pub-000522b32b43409e9f02812b25914a66.r2.dev/vlanc-lab/assets/docs/attrisage_eacl-srw.pdf",
+			"size": 473197,
+			"contentType": "application/pdf",
+			"sha256": "613eaf76176c9b389843de08893b8771fb907195ce87cf8706cec7d393ea5c68"
+		},
+		"/docs/tight_sampling_ubn.pdf": {
+			"key": "vlanc-lab/assets/docs/tight_sampling_ubn.pdf",
+			"url": "https://pub-000522b32b43409e9f02812b25914a66.r2.dev/vlanc-lab/assets/docs/tight_sampling_ubn.pdf",
+			"size": 5689499,
+			"contentType": "application/pdf",
+			"sha256": "e3daf926be641feacc941d51155e92de9c1e40cba739b0b6c68ec2a49b815622"
+		},
+		"/docs/warning-its-a-scam-slides.pdf": {
+			"key": "vlanc-lab/assets/docs/warning-its-a-scam-slides.pdf",
+			"url": "https://pub-000522b32b43409e9f02812b25914a66.r2.dev/vlanc-lab/assets/docs/warning-its-a-scam-slides.pdf",
+			"size": 351272,
+			"contentType": "application/pdf",
+			"sha256": "eb95dbca535617f01b2ace1ab34958eef1c33d2c9f35bd2239f9bd2ae0271679"
+		},
+		"/teachings/Build_a_Large_Language_Model_(From_Scrat.pdf": {
+			"key": "vlanc-lab/assets/teachings/Build_a_Large_Language_Model_(From_Scrat.pdf",
+			"url": "https://pub-000522b32b43409e9f02812b25914a66.r2.dev/vlanc-lab/assets/teachings/Build_a_Large_Language_Model_(From_Scrat.pdf",
+			"size": 11173230,
+			"contentType": "application/pdf",
+			"sha256": "b1d60474950d948233fed77a5925388f84beed03900a1b5d9f696a6d00efe353"
+		},
+		"/teachings/NLP%20with%20Python.pdf": {
+			"key": "vlanc-lab/assets/teachings/NLP with Python.pdf",
+			"url": "https://pub-000522b32b43409e9f02812b25914a66.r2.dev/vlanc-lab/assets/teachings/NLP%20with%20Python.pdf",
+			"size": 3580937,
+			"contentType": "application/pdf",
+			"sha256": "3a89036eea330c49f22f039b946caa8b46d83973bca7d60c75ba315bca00f308"
+		},
+		"/teachings/NLP-Lecture-0.pdf": {
+			"key": "vlanc-lab/assets/teachings/NLP-Lecture-0.pdf",
+			"url": "https://pub-000522b32b43409e9f02812b25914a66.r2.dev/vlanc-lab/assets/teachings/NLP-Lecture-0.pdf",
+			"size": 1542239,
+			"contentType": "application/pdf",
+			"sha256": "122c694eec5242a7d4b4746dd8ec7552e4250c80180f3764f1f41be92c048858"
+		},
+		"/teachings/NLP-Lecture-01.pdf": {
+			"key": "vlanc-lab/assets/teachings/NLP-Lecture-01.pdf",
+			"url": "https://pub-000522b32b43409e9f02812b25914a66.r2.dev/vlanc-lab/assets/teachings/NLP-Lecture-01.pdf",
+			"size": 1615941,
+			"contentType": "application/pdf",
+			"sha256": "b4e09ce51f5fa8c393126552e133fe9423505a421e131bb61b52227a5fd2f30d"
+		},
+		"/teachings/NLP-Lecture-02.pdf": {
+			"key": "vlanc-lab/assets/teachings/NLP-Lecture-02.pdf",
+			"url": "https://pub-000522b32b43409e9f02812b25914a66.r2.dev/vlanc-lab/assets/teachings/NLP-Lecture-02.pdf",
+			"size": 1679476,
+			"contentType": "application/pdf",
+			"sha256": "9b6641aed7b9c42fe8f97ffac5203d15f13da4f17a4d4bfe714fd713f2245a62"
+		},
+		"/teachings/NLP-Lecture-03.pdf": {
+			"key": "vlanc-lab/assets/teachings/NLP-Lecture-03.pdf",
+			"url": "https://pub-000522b32b43409e9f02812b25914a66.r2.dev/vlanc-lab/assets/teachings/NLP-Lecture-03.pdf",
+			"size": 1143612,
+			"contentType": "application/pdf",
+			"sha256": "de52daf39cbbd33b756cd9f690e0cc3916379c5dc26fb4bf69de61309f4531c5"
+		},
+		"/teachings/NLP-Lecture-04-fall.pdf": {
+			"key": "vlanc-lab/assets/teachings/NLP-Lecture-04-fall.pdf",
+			"url": "https://pub-000522b32b43409e9f02812b25914a66.r2.dev/vlanc-lab/assets/teachings/NLP-Lecture-04-fall.pdf",
+			"size": 3455805,
+			"contentType": "application/pdf",
+			"sha256": "12881e5eff736af86d44b39371e23474796c1c26276aaa6602ed27b51d4fd166"
+		},
+		"/teachings/NLP-Lecture-04.pdf": {
+			"key": "vlanc-lab/assets/teachings/NLP-Lecture-04.pdf",
+			"url": "https://pub-000522b32b43409e9f02812b25914a66.r2.dev/vlanc-lab/assets/teachings/NLP-Lecture-04.pdf",
+			"size": 8750525,
+			"contentType": "application/pdf",
+			"sha256": "7a960db6a31243e43945061178caeede86bc219309af07444695e6665489ad0e"
+		},
+		"/teachings/NLP-Lecture-05.pdf": {
+			"key": "vlanc-lab/assets/teachings/NLP-Lecture-05.pdf",
+			"url": "https://pub-000522b32b43409e9f02812b25914a66.r2.dev/vlanc-lab/assets/teachings/NLP-Lecture-05.pdf",
+			"size": 2669059,
+			"contentType": "application/pdf",
+			"sha256": "cff59eff500400e03f7446a0bc2bdfcc7a7e2d54c8ced56b6ce5b796584b11ac"
+		},
+		"/teachings/NLP-Lecture-06.pdf": {
+			"key": "vlanc-lab/assets/teachings/NLP-Lecture-06.pdf",
+			"url": "https://pub-000522b32b43409e9f02812b25914a66.r2.dev/vlanc-lab/assets/teachings/NLP-Lecture-06.pdf",
+			"size": 1294355,
+			"contentType": "application/pdf",
+			"sha256": "3f80d9b89c33ba76a91b4afe37748c82a7150a0ed086996cef671c72379f9204"
+		},
+		"/teachings/NLP-Lecture-07.pdf": {
+			"key": "vlanc-lab/assets/teachings/NLP-Lecture-07.pdf",
+			"url": "https://pub-000522b32b43409e9f02812b25914a66.r2.dev/vlanc-lab/assets/teachings/NLP-Lecture-07.pdf",
+			"size": 2786649,
+			"contentType": "application/pdf",
+			"sha256": "e44f0a5831b149a17a2633e62622dcf2f650a0d5c4523898c54ef5495d24ab60"
+		},
+		"/teachings/NLP-Lecture-08_updated.pdf": {
+			"key": "vlanc-lab/assets/teachings/NLP-Lecture-08_updated.pdf",
+			"url": "https://pub-000522b32b43409e9f02812b25914a66.r2.dev/vlanc-lab/assets/teachings/NLP-Lecture-08_updated.pdf",
+			"size": 3305678,
+			"contentType": "application/pdf",
+			"sha256": "303d8adbdaf567f6840361b31119d7c141041392ee3f707c3fcdbb34b5ea5695"
+		},
+		"/teachings/NLP-Lecture-09.pdf": {
+			"key": "vlanc-lab/assets/teachings/NLP-Lecture-09.pdf",
+			"url": "https://pub-000522b32b43409e9f02812b25914a66.r2.dev/vlanc-lab/assets/teachings/NLP-Lecture-09.pdf",
+			"size": 5938958,
+			"contentType": "application/pdf",
+			"sha256": "045757effed7855e0d8abec5666640e623dce9a66a3ed1a6a84ef80a76fd3e32"
+		},
+		"/teachings/NLP-Lecture-10.pdf": {
+			"key": "vlanc-lab/assets/teachings/NLP-Lecture-10.pdf",
+			"url": "https://pub-000522b32b43409e9f02812b25914a66.r2.dev/vlanc-lab/assets/teachings/NLP-Lecture-10.pdf",
+			"size": 1697861,
+			"contentType": "application/pdf",
+			"sha256": "1191e7efb6cee6f771e6e0dfe5f6696a4980d6554fd512bca74892bcbfb8d7a9"
+		},
+		"/teachings/NLP-Lecture-11.pdf": {
+			"key": "vlanc-lab/assets/teachings/NLP-Lecture-11.pdf",
+			"url": "https://pub-000522b32b43409e9f02812b25914a66.r2.dev/vlanc-lab/assets/teachings/NLP-Lecture-11.pdf",
+			"size": 820629,
+			"contentType": "application/pdf",
+			"sha256": "4807b267601519933b250ded8f5a5c553a1b430f65a783d72576abca695d1a59"
+		},
+		"/teachings/NLP-Lecture-12.pdf": {
+			"key": "vlanc-lab/assets/teachings/NLP-Lecture-12.pdf",
+			"url": "https://pub-000522b32b43409e9f02812b25914a66.r2.dev/vlanc-lab/assets/teachings/NLP-Lecture-12.pdf",
+			"size": 1051778,
+			"contentType": "application/pdf",
+			"sha256": "30220bb04fa0435a81d2b2a2c95824a2cefde2abd3d970b1dc0535683cb4c943"
+		},
+		"/teachings/NLP-Lecture-13.pdf": {
+			"key": "vlanc-lab/assets/teachings/NLP-Lecture-13.pdf",
+			"url": "https://pub-000522b32b43409e9f02812b25914a66.r2.dev/vlanc-lab/assets/teachings/NLP-Lecture-13.pdf",
+			"size": 2237369,
+			"contentType": "application/pdf",
+			"sha256": "971797a83ddd9cc95d71749c21a75294e0037dc85141a8999d11e6c80101e3ec"
+		},
+		"/teachings/NLP-Lecture-14.pdf": {
+			"key": "vlanc-lab/assets/teachings/NLP-Lecture-14.pdf",
+			"url": "https://pub-000522b32b43409e9f02812b25914a66.r2.dev/vlanc-lab/assets/teachings/NLP-Lecture-14.pdf",
+			"size": 2,
+			"contentType": "application/pdf",
+			"sha256": "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6"
+		},
+		"/teachings/NLP-Lecture-9.pdf": {
+			"key": "vlanc-lab/assets/teachings/NLP-Lecture-9.pdf",
+			"url": "https://pub-000522b32b43409e9f02812b25914a66.r2.dev/vlanc-lab/assets/teachings/NLP-Lecture-9.pdf",
+			"size": 2086524,
+			"contentType": "application/pdf",
+			"sha256": "c5f27af2dff81baae962cd2a85d4150a1d7cf2834d3b21e2b8beddf8d3836fba"
+		},
+		"/teachings/NLP-lecture-08.pdf": {
+			"key": "vlanc-lab/assets/teachings/NLP-lecture-08.pdf",
+			"url": "https://pub-000522b32b43409e9f02812b25914a66.r2.dev/vlanc-lab/assets/teachings/NLP-lecture-08.pdf",
+			"size": 3111954,
+			"contentType": "application/pdf",
+			"sha256": "2bfb6885f5e003a6e2bc5fd1356f255b5dffc9b179f0b0b546a4b23bbc2d5c65"
+		},
+		"/teachings/Speech%20and%20language%20processing.pdf": {
+			"key": "vlanc-lab/assets/teachings/Speech and language processing.pdf",
+			"url": "https://pub-000522b32b43409e9f02812b25914a66.r2.dev/vlanc-lab/assets/teachings/Speech%20and%20language%20processing.pdf",
+			"size": 24404303,
+			"contentType": "application/pdf",
+			"sha256": "273e84cdd14ac220ed5ac66ebbbc335a82bfaf600ed6a62eb4fa79034c6da356"
+		},
+		"/teachings/fall-2026/Class-notes/Vae-math.pdf": {
+			"key": "vlanc-lab/assets/teachings/fall-2026/Class-notes/Vae-math.pdf",
+			"url": "https://pub-000522b32b43409e9f02812b25914a66.r2.dev/vlanc-lab/assets/teachings/fall-2026/Class-notes/Vae-math.pdf",
+			"size": 834799,
+			"contentType": "application/pdf",
+			"sha256": "e3d6582da14864935376538c3e89c8064db0c287d9fdee733ea3dd8f8ce8f207"
+		},
+		"/teachings/fall-2026/GenAI-LLM-Spring-2026-syllabus.pdf": {
+			"key": "vlanc-lab/assets/teachings/fall-2026/GenAI-LLM-Spring-2026-syllabus.pdf",
+			"url": "https://pub-000522b32b43409e9f02812b25914a66.r2.dev/vlanc-lab/assets/teachings/fall-2026/GenAI-LLM-Spring-2026-syllabus.pdf",
+			"size": 176605,
+			"contentType": "application/pdf",
+			"sha256": "a5ae50b1904a6125640f0d6716c11be7300b0349a8a57b3bca5fcc96aa922562"
+		},
+		"/teachings/fall-2026/Lectures/Lecture-0-Overview.pdf": {
+			"key": "vlanc-lab/assets/teachings/fall-2026/Lectures/Lecture-0-Overview.pdf",
+			"url": "https://pub-000522b32b43409e9f02812b25914a66.r2.dev/vlanc-lab/assets/teachings/fall-2026/Lectures/Lecture-0-Overview.pdf",
+			"size": 1108488,
+			"contentType": "application/pdf",
+			"sha256": "e3faee57090b163ee18208679802debc2b2888729d22c03c900642ed6da9dcd8"
+		},
+		"/teachings/fall-2026/Lectures/Lecture-1-GenerativeAI.pdf": {
+			"key": "vlanc-lab/assets/teachings/fall-2026/Lectures/Lecture-1-GenerativeAI.pdf",
+			"url": "https://pub-000522b32b43409e9f02812b25914a66.r2.dev/vlanc-lab/assets/teachings/fall-2026/Lectures/Lecture-1-GenerativeAI.pdf",
+			"size": 4527634,
+			"contentType": "application/pdf",
+			"sha256": "8a821968000e474cbb5c314fdd935116191c099d67475ee10a175faef12e4239"
+		},
+		"/teachings/fall-2026/Lectures/Lecture-2-Latent%20Variable%20Models%20and%20GANs.pdf": {
+			"key": "vlanc-lab/assets/teachings/fall-2026/Lectures/Lecture-2-Latent Variable Models and GANs.pdf",
+			"url": "https://pub-000522b32b43409e9f02812b25914a66.r2.dev/vlanc-lab/assets/teachings/fall-2026/Lectures/Lecture-2-Latent%20Variable%20Models%20and%20GANs.pdf",
+			"size": 2143803,
+			"contentType": "application/pdf",
+			"sha256": "98cb5c53704ffeaacca7f0a783f34ebeef8ea61070901dccbb4737c01efe8938"
+		},
+		"/teachings/fall-2026/Lectures/Lecture-3-VAE.pdf": {
+			"key": "vlanc-lab/assets/teachings/fall-2026/Lectures/Lecture-3-VAE.pdf",
+			"url": "https://pub-000522b32b43409e9f02812b25914a66.r2.dev/vlanc-lab/assets/teachings/fall-2026/Lectures/Lecture-3-VAE.pdf",
+			"size": 1485226,
+			"contentType": "application/pdf",
+			"sha256": "a3b7b8a7762d6fe61fc4118d6fc0c3a5ded40d319b71fe6d29cf40a085796c21"
+		},
+		"/teachings/fall-2026/Resources/978-3-031-64087-2%20(1).pdf": {
+			"key": "vlanc-lab/assets/teachings/fall-2026/Resources/978-3-031-64087-2 (1).pdf",
+			"url": "https://pub-000522b32b43409e9f02812b25914a66.r2.dev/vlanc-lab/assets/teachings/fall-2026/Resources/978-3-031-64087-2%20(1).pdf",
+			"size": 19198500,
+			"contentType": "application/pdf",
+			"sha256": "b3655c0ddda7345f020b132e57e826687b0f3dbbc67a3bca23f2738e29ffeed4"
+		},
+		"/teachings/fall-2026/Resources/Build%20a%20Large%20Language%20Model%20(From%20Scratch).pdf": {
+			"key": "vlanc-lab/assets/teachings/fall-2026/Resources/Build a Large Language Model (From Scratch).pdf",
+			"url": "https://pub-000522b32b43409e9f02812b25914a66.r2.dev/vlanc-lab/assets/teachings/fall-2026/Resources/Build%20a%20Large%20Language%20Model%20(From%20Scratch).pdf",
+			"size": 11388663,
+			"contentType": "application/pdf",
+			"sha256": "eaf5d0c744281f0ef7ce05dd25b07b01aba3e0cab04727035478a1b38666893b"
+		},
+		"/teachings/fall-2026/Resources/Deep-generative-modeling-Book.pdf": {
+			"key": "vlanc-lab/assets/teachings/fall-2026/Resources/Deep-generative-modeling-Book.pdf",
+			"url": "https://pub-000522b32b43409e9f02812b25914a66.r2.dev/vlanc-lab/assets/teachings/fall-2026/Resources/Deep-generative-modeling-Book.pdf",
+			"size": 19198500,
+			"contentType": "application/pdf",
+			"sha256": "b3655c0ddda7345f020b132e57e826687b0f3dbbc67a3bca23f2738e29ffeed4"
+		},
+		"/teachings/fall-2026/Resources/Deep-generative-models-survey.pdf": {
+			"key": "vlanc-lab/assets/teachings/fall-2026/Resources/Deep-generative-models-survey.pdf",
+			"url": "https://pub-000522b32b43409e9f02812b25914a66.r2.dev/vlanc-lab/assets/teachings/fall-2026/Resources/Deep-generative-models-survey.pdf",
+			"size": 3508745,
+			"contentType": "application/pdf",
+			"sha256": "b906c1913cf791d1e610248d4d1c959e2b25d6780d9aec2902e5ef0ede3d7f74"
+		},
+		"/teachings/fall-2026/Resources/Deep-generative-models.pdf": {
+			"key": "vlanc-lab/assets/teachings/fall-2026/Resources/Deep-generative-models.pdf",
+			"url": "https://pub-000522b32b43409e9f02812b25914a66.r2.dev/vlanc-lab/assets/teachings/fall-2026/Resources/Deep-generative-models.pdf",
+			"size": 1757115,
+			"contentType": "application/pdf",
+			"sha256": "c374af7c41df3deb4ff3f19fd1669284f531783b02b676ef031f88b1d697b77a"
+		},
+		"/teachings/lec02_rnn.pdf": {
+			"key": "vlanc-lab/assets/teachings/lec02_rnn.pdf",
+			"url": "https://pub-000522b32b43409e9f02812b25914a66.r2.dev/vlanc-lab/assets/teachings/lec02_rnn.pdf",
+			"size": 4104016,
+			"contentType": "application/pdf",
+			"sha256": "f102626d5d9b8d83467c692a04832d7f0317902776bf380c09ee4653d276df39"
+		},
+		"/teachings/slides-fall-2024/Fall_NLP-Lecture-5.pdf": {
+			"key": "vlanc-lab/assets/teachings/slides-fall-2024/Fall_NLP-Lecture-5.pdf",
+			"url": "https://pub-000522b32b43409e9f02812b25914a66.r2.dev/vlanc-lab/assets/teachings/slides-fall-2024/Fall_NLP-Lecture-5.pdf",
+			"size": 2578804,
+			"contentType": "application/pdf",
+			"sha256": "de5a8f8eed660973b7d03159096d90535e8b7c117ec04038d7db04428945c0a5"
+		},
+		"/teachings/slides-fall-2024/NLP-Lecture-0.pdf": {
+			"key": "vlanc-lab/assets/teachings/slides-fall-2024/NLP-Lecture-0.pdf",
+			"url": "https://pub-000522b32b43409e9f02812b25914a66.r2.dev/vlanc-lab/assets/teachings/slides-fall-2024/NLP-Lecture-0.pdf",
+			"size": 2061012,
+			"contentType": "application/pdf",
+			"sha256": "9987cab365b7183cd8a24abe93c13d8540a9a3e0c86bba1553c0392952cb1d8f"
+		},
+		"/teachings/slides-fall-2024/NLP-Lecture-0.pptx": {
+			"key": "vlanc-lab/assets/teachings/slides-fall-2024/NLP-Lecture-0.pptx",
+			"url": "https://pub-000522b32b43409e9f02812b25914a66.r2.dev/vlanc-lab/assets/teachings/slides-fall-2024/NLP-Lecture-0.pptx",
+			"size": 5988612,
+			"contentType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+			"sha256": "4171ebcae45df2c9dbc8af972599adb71eb2812137f894d38ed5a65589a775c0"
+		},
+		"/teachings/slides-fall-2024/NLP-Lecture-04-fall.pdf": {
+			"key": "vlanc-lab/assets/teachings/slides-fall-2024/NLP-Lecture-04-fall.pdf",
+			"url": "https://pub-000522b32b43409e9f02812b25914a66.r2.dev/vlanc-lab/assets/teachings/slides-fall-2024/NLP-Lecture-04-fall.pdf",
+			"size": 3455801,
+			"contentType": "application/pdf",
+			"sha256": "7c5adcebddbc13dfd5adbf2bd9e67e3485acb2a780acaf5edb2d2ecb1e5e7080"
+		},
+		"/teachings/slides-fall-2024/NLP-Lecture-1.1.pdf": {
+			"key": "vlanc-lab/assets/teachings/slides-fall-2024/NLP-Lecture-1.1.pdf",
+			"url": "https://pub-000522b32b43409e9f02812b25914a66.r2.dev/vlanc-lab/assets/teachings/slides-fall-2024/NLP-Lecture-1.1.pdf",
+			"size": 821719,
+			"contentType": "application/pdf",
+			"sha256": "b1c1582ab4346dc9fe6d946117362c76ac304bff2c8ea715df8f00363cdf07a6"
+		},
+		"/teachings/slides-fall-2024/NLP-Lecture-1.2-old.pdf": {
+			"key": "vlanc-lab/assets/teachings/slides-fall-2024/NLP-Lecture-1.2-old.pdf",
+			"url": "https://pub-000522b32b43409e9f02812b25914a66.r2.dev/vlanc-lab/assets/teachings/slides-fall-2024/NLP-Lecture-1.2-old.pdf",
+			"size": 1765219,
+			"contentType": "application/pdf",
+			"sha256": "7a32c6d1a8ac18ea8e46b46568ed2575d8a22276416384b62c7e26497acc5379"
+		},
+		"/teachings/slides-fall-2024/NLP-Lecture-1.2.pdf": {
+			"key": "vlanc-lab/assets/teachings/slides-fall-2024/NLP-Lecture-1.2.pdf",
+			"url": "https://pub-000522b32b43409e9f02812b25914a66.r2.dev/vlanc-lab/assets/teachings/slides-fall-2024/NLP-Lecture-1.2.pdf",
+			"size": 1779882,
+			"contentType": "application/pdf",
+			"sha256": "ec4ab7f83187ace7b2c3b5a68f459d346433232c7aba39be08b7dc865b32cd84"
+		},
+		"/teachings/slides-fall-2024/NLP-Lecture-11.pdf": {
+			"key": "vlanc-lab/assets/teachings/slides-fall-2024/NLP-Lecture-11.pdf",
+			"url": "https://pub-000522b32b43409e9f02812b25914a66.r2.dev/vlanc-lab/assets/teachings/slides-fall-2024/NLP-Lecture-11.pdf",
+			"size": 820629,
+			"contentType": "application/pdf",
+			"sha256": "4807b267601519933b250ded8f5a5c553a1b430f65a783d72576abca695d1a59"
+		},
+		"/teachings/slides-fall-2024/NLP-Lecture-12.pdf": {
+			"key": "vlanc-lab/assets/teachings/slides-fall-2024/NLP-Lecture-12.pdf",
+			"url": "https://pub-000522b32b43409e9f02812b25914a66.r2.dev/vlanc-lab/assets/teachings/slides-fall-2024/NLP-Lecture-12.pdf",
+			"size": 1051778,
+			"contentType": "application/pdf",
+			"sha256": "30220bb04fa0435a81d2b2a2c95824a2cefde2abd3d970b1dc0535683cb4c943"
+		},
+		"/teachings/slides-fall-2024/NLP-Lecture-13.pdf": {
+			"key": "vlanc-lab/assets/teachings/slides-fall-2024/NLP-Lecture-13.pdf",
+			"url": "https://pub-000522b32b43409e9f02812b25914a66.r2.dev/vlanc-lab/assets/teachings/slides-fall-2024/NLP-Lecture-13.pdf",
+			"size": 2237369,
+			"contentType": "application/pdf",
+			"sha256": "971797a83ddd9cc95d71749c21a75294e0037dc85141a8999d11e6c80101e3ec"
+		},
+		"/teachings/slides-fall-2024/NLP-Lecture-14.pdf": {
+			"key": "vlanc-lab/assets/teachings/slides-fall-2024/NLP-Lecture-14.pdf",
+			"url": "https://pub-000522b32b43409e9f02812b25914a66.r2.dev/vlanc-lab/assets/teachings/slides-fall-2024/NLP-Lecture-14.pdf",
+			"size": 2383048,
+			"contentType": "application/pdf",
+			"sha256": "a6ac7f44cd19cf9092d04176ad07a9360a8b0b3e232c0d2603715eb6aab76cad"
+		},
+		"/teachings/slides-fall-2024/NLP-Lecture-2.pdf": {
+			"key": "vlanc-lab/assets/teachings/slides-fall-2024/NLP-Lecture-2.pdf",
+			"url": "https://pub-000522b32b43409e9f02812b25914a66.r2.dev/vlanc-lab/assets/teachings/slides-fall-2024/NLP-Lecture-2.pdf",
+			"size": 1294926,
+			"contentType": "application/pdf",
+			"sha256": "301428b23f8f9fe3349ed218fde35147c6f2dfc161beba99e8bde1236835f961"
+		},
+		"/teachings/slides-fall-2024/NLP-Lecture-4.pdf": {
+			"key": "vlanc-lab/assets/teachings/slides-fall-2024/NLP-Lecture-4.pdf",
+			"url": "https://pub-000522b32b43409e9f02812b25914a66.r2.dev/vlanc-lab/assets/teachings/slides-fall-2024/NLP-Lecture-4.pdf",
+			"size": 20079517,
+			"contentType": "application/pdf",
+			"sha256": "b00f10d5f6f1ba27595b07a75558627ded2fc89d130ac128d7e843b001362047"
+		},
+		"/teachings/slides-fall-2024/NLP-Lecture-6.pdf": {
+			"key": "vlanc-lab/assets/teachings/slides-fall-2024/NLP-Lecture-6.pdf",
+			"url": "https://pub-000522b32b43409e9f02812b25914a66.r2.dev/vlanc-lab/assets/teachings/slides-fall-2024/NLP-Lecture-6.pdf",
+			"size": 3196427,
+			"contentType": "application/pdf",
+			"sha256": "b7f7f4bc9a6e87db986a2bfa1d250d3c2aac7da97420b4f356c9dfdb4e3fd57a"
+		},
+		"/teachings/slides-fall-2024/NLP-Lecture-7.pdf": {
+			"key": "vlanc-lab/assets/teachings/slides-fall-2024/NLP-Lecture-7.pdf",
+			"url": "https://pub-000522b32b43409e9f02812b25914a66.r2.dev/vlanc-lab/assets/teachings/slides-fall-2024/NLP-Lecture-7.pdf",
+			"size": 2887005,
+			"contentType": "application/pdf",
+			"sha256": "b5073015c8a9cf24ebae6fe7e0af5f8686a94a30a34bdf94efb5c2cd76139007"
+		},
+		"/teachings/slides-fall-2024/NLP-Lecture-8%20(1).pdf": {
+			"key": "vlanc-lab/assets/teachings/slides-fall-2024/NLP-Lecture-8 (1).pdf",
+			"url": "https://pub-000522b32b43409e9f02812b25914a66.r2.dev/vlanc-lab/assets/teachings/slides-fall-2024/NLP-Lecture-8%20(1).pdf",
+			"size": 5990556,
+			"contentType": "application/pdf",
+			"sha256": "6adbfaf830aec19a91504f1e320c7453f3aa71162066ad9db3ee66e7b115a378"
+		},
+		"/teachings/slides-fall-2024/NLP-Lecture-9.pdf": {
+			"key": "vlanc-lab/assets/teachings/slides-fall-2024/NLP-Lecture-9.pdf",
+			"url": "https://pub-000522b32b43409e9f02812b25914a66.r2.dev/vlanc-lab/assets/teachings/slides-fall-2024/NLP-Lecture-9.pdf",
+			"size": 2086524,
+			"contentType": "application/pdf",
+			"sha256": "c5f27af2dff81baae962cd2a85d4150a1d7cf2834d3b21e2b8beddf8d3836fba"
+		},
+		"/gen-ai-contents/Books/Build%20a%20Large%20Language%20Model%20(From%20Scratch).pdf": {
+			"key": "vlanc-lab/assets/gen-ai-contents/Books/Build a Large Language Model (From Scratch).pdf",
+			"url": "https://pub-000522b32b43409e9f02812b25914a66.r2.dev/vlanc-lab/assets/gen-ai-contents/Books/Build%20a%20Large%20Language%20Model%20(From%20Scratch).pdf",
+			"size": 11388663,
+			"contentType": "application/pdf",
+			"sha256": "eaf5d0c744281f0ef7ce05dd25b07b01aba3e0cab04727035478a1b38666893b"
+		},
+		"/gen-ai-contents/Books/Deep-generative-modeling-Book.pdf": {
+			"key": "vlanc-lab/assets/gen-ai-contents/Books/Deep-generative-modeling-Book.pdf",
+			"url": "https://pub-000522b32b43409e9f02812b25914a66.r2.dev/vlanc-lab/assets/gen-ai-contents/Books/Deep-generative-modeling-Book.pdf",
+			"size": 19198500,
+			"contentType": "application/pdf",
+			"sha256": "b3655c0ddda7345f020b132e57e826687b0f3dbbc67a3bca23f2738e29ffeed4"
+		},
+		"/gen-ai-contents/Class-notes/Class-notes-2.pdf": {
+			"key": "vlanc-lab/assets/gen-ai-contents/Class-notes/Class-notes-2.pdf",
+			"url": "https://pub-000522b32b43409e9f02812b25914a66.r2.dev/vlanc-lab/assets/gen-ai-contents/Class-notes/Class-notes-2.pdf",
+			"size": 1153775,
+			"contentType": "application/pdf",
+			"sha256": "b17c561045b1823b8cf086f0720286990b2caac0efe53c411d7b8e1d0eb431f4"
+		},
+		"/gen-ai-contents/Class-notes/Ddpm-notes.pdf": {
+			"key": "vlanc-lab/assets/gen-ai-contents/Class-notes/Ddpm-notes.pdf",
+			"url": "https://pub-000522b32b43409e9f02812b25914a66.r2.dev/vlanc-lab/assets/gen-ai-contents/Class-notes/Ddpm-notes.pdf",
+			"size": 1944672,
+			"contentType": "application/pdf",
+			"sha256": "ff672dafbc18cdcd0ea2f2693b1c5c4bb0d27ee035c48f2a10c68abcf4fc585f"
+		},
+		"/gen-ai-contents/Class-notes/Ddpm-variance-properties.pdf": {
+			"key": "vlanc-lab/assets/gen-ai-contents/Class-notes/Ddpm-variance-properties.pdf",
+			"url": "https://pub-000522b32b43409e9f02812b25914a66.r2.dev/vlanc-lab/assets/gen-ai-contents/Class-notes/Ddpm-variance-properties.pdf",
+			"size": 1657419,
+			"contentType": "application/pdf",
+			"sha256": "9b39791185eccbd2c9e1e5e3eb03af02ae04a164eafa031ae4bf691e80a8f683"
+		},
+		"/gen-ai-contents/Class-notes/Genai-basic-notes.pdf": {
+			"key": "vlanc-lab/assets/gen-ai-contents/Class-notes/Genai-basic-notes.pdf",
+			"url": "https://pub-000522b32b43409e9f02812b25914a66.r2.dev/vlanc-lab/assets/gen-ai-contents/Class-notes/Genai-basic-notes.pdf",
+			"size": 373255,
+			"contentType": "application/pdf",
+			"sha256": "d596b8ab4adfe583c80dd70ea3613cf903f7c2f901201311913f071e0d2438f2"
+		},
+		"/gen-ai-contents/Class-notes/Vae-math.pdf": {
+			"key": "vlanc-lab/assets/gen-ai-contents/Class-notes/Vae-math.pdf",
+			"url": "https://pub-000522b32b43409e9f02812b25914a66.r2.dev/vlanc-lab/assets/gen-ai-contents/Class-notes/Vae-math.pdf",
+			"size": 834799,
+			"contentType": "application/pdf",
+			"sha256": "e3d6582da14864935376538c3e89c8064db0c287d9fdee733ea3dd8f8ce8f207"
+		},
+		"/gen-ai-contents/GenAI-LLM-Spring-2026-syllabus.pdf": {
+			"key": "vlanc-lab/assets/gen-ai-contents/GenAI-LLM-Spring-2026-syllabus.pdf",
+			"url": "https://pub-000522b32b43409e9f02812b25914a66.r2.dev/vlanc-lab/assets/gen-ai-contents/GenAI-LLM-Spring-2026-syllabus.pdf",
+			"size": 176605,
+			"contentType": "application/pdf",
+			"sha256": "a5ae50b1904a6125640f0d6716c11be7300b0349a8a57b3bca5fcc96aa922562"
+		},
+		"/gen-ai-contents/Lectures/Ticket_404141829085_12.08.2026__H.pdf": {
+			"key": "vlanc-lab/assets/gen-ai-contents/Lectures/Ticket_404141829085_12.08.2026__H.pdf",
+			"url": "https://pub-000522b32b43409e9f02812b25914a66.r2.dev/vlanc-lab/assets/gen-ai-contents/Lectures/Ticket_404141829085_12.08.2026__H.pdf",
+			"size": 173170,
+			"contentType": "application/pdf",
+			"sha256": "f82ac379ff06e8ce09f8818d8dd8d642f471a39d695f31aa824064c5adfee580"
+		},
+		"/gen-ai-contents/Lectures/Ticket_586946411225_21.08.2026__H.pdf": {
+			"key": "vlanc-lab/assets/gen-ai-contents/Lectures/Ticket_586946411225_21.08.2026__H.pdf",
+			"url": "https://pub-000522b32b43409e9f02812b25914a66.r2.dev/vlanc-lab/assets/gen-ai-contents/Lectures/Ticket_586946411225_21.08.2026__H.pdf",
+			"size": 173510,
+			"contentType": "application/pdf",
+			"sha256": "5e425d4883f1f20f406267058662e672dedc009ffbd8d6e67e5139918f6f1f78"
+		},
+		"/gen-ai-contents/Practice-tests/Practice-Set-1_CS5202.pdf": {
+			"key": "vlanc-lab/assets/gen-ai-contents/Practice-tests/Practice-Set-1_CS5202.pdf",
+			"url": "https://pub-000522b32b43409e9f02812b25914a66.r2.dev/vlanc-lab/assets/gen-ai-contents/Practice-tests/Practice-Set-1_CS5202.pdf",
+			"size": 128385,
+			"contentType": "application/pdf",
+			"sha256": "d38a8dde6e63c58c5e774d780856e1b24c7b3c40a171c95bfa66c90b63f77ab6"
+		},
+		"/gen-ai-contents/Practice-tests/Practice-Set-1_solutions_CS5202.pdf": {
+			"key": "vlanc-lab/assets/gen-ai-contents/Practice-tests/Practice-Set-1_solutions_CS5202.pdf",
+			"url": "https://pub-000522b32b43409e9f02812b25914a66.r2.dev/vlanc-lab/assets/gen-ai-contents/Practice-tests/Practice-Set-1_solutions_CS5202.pdf",
+			"size": 441561,
+			"contentType": "application/pdf",
+			"sha256": "e6fb765371acd59d3e9e34804a04a952eacf167470be71646db3112fa9777599"
+		},
+		"/gen-ai-contents/Resources/Unit-1/DDPM-paPER.pdf": {
+			"key": "vlanc-lab/assets/gen-ai-contents/Resources/Unit-1/DDPM-paPER.pdf",
+			"url": "https://pub-000522b32b43409e9f02812b25914a66.r2.dev/vlanc-lab/assets/gen-ai-contents/Resources/Unit-1/DDPM-paPER.pdf",
+			"size": 10202246,
+			"contentType": "application/pdf",
+			"sha256": "d1ebba9c4082e12e39ac89dd5cc452ebebd0fe9cdb26d260a3158667033c5454"
+		},
+		"/gen-ai-contents/Resources/Unit-1/Deep-generative-models-survey.pdf": {
+			"key": "vlanc-lab/assets/gen-ai-contents/Resources/Unit-1/Deep-generative-models-survey.pdf",
+			"url": "https://pub-000522b32b43409e9f02812b25914a66.r2.dev/vlanc-lab/assets/gen-ai-contents/Resources/Unit-1/Deep-generative-models-survey.pdf",
+			"size": 3508745,
+			"contentType": "application/pdf",
+			"sha256": "b906c1913cf791d1e610248d4d1c959e2b25d6780d9aec2902e5ef0ede3d7f74"
+		},
+		"/gen-ai-contents/Resources/Unit-1/Deep-generative-models.pdf": {
+			"key": "vlanc-lab/assets/gen-ai-contents/Resources/Unit-1/Deep-generative-models.pdf",
+			"url": "https://pub-000522b32b43409e9f02812b25914a66.r2.dev/vlanc-lab/assets/gen-ai-contents/Resources/Unit-1/Deep-generative-models.pdf",
+			"size": 1757115,
+			"contentType": "application/pdf",
+			"sha256": "c374af7c41df3deb4ff3f19fd1669284f531783b02b676ef031f88b1d697b77a"
+		},
+		"/gen-ai-contents/Resources/Unit-1/Flow_based_deep_generative_models_report.pdf": {
+			"key": "vlanc-lab/assets/gen-ai-contents/Resources/Unit-1/Flow_based_deep_generative_models_report.pdf",
+			"url": "https://pub-000522b32b43409e9f02812b25914a66.r2.dev/vlanc-lab/assets/gen-ai-contents/Resources/Unit-1/Flow_based_deep_generative_models_report.pdf",
+			"size": 2954495,
+			"contentType": "application/pdf",
+			"sha256": "c772466a20b20a97f097b653b7051193a917a7238ca1a42289cdb1bfbb79f530"
+		},
+		"/gen-ai-contents/Resources/Unit-1/Improved%20Denoising%20Diffusion%20Probabilistic%20Models.pdf": {
+			"key": "vlanc-lab/assets/gen-ai-contents/Resources/Unit-1/Improved Denoising Diffusion Probabilistic Models.pdf",
+			"url": "https://pub-000522b32b43409e9f02812b25914a66.r2.dev/vlanc-lab/assets/gen-ai-contents/Resources/Unit-1/Improved%20Denoising%20Diffusion%20Probabilistic%20Models.pdf",
+			"size": 12393431,
+			"contentType": "application/pdf",
+			"sha256": "ff46bc6f16e58386053d9b044d68de33a70b2f55077e26f2046a6df306188bf2"
+		},
+		"/gen-ai-contents/Resources/Unit-1/U-Net_%20Convolutional%20Networks%20for%20Biomedical%20Image%20Segmentation.pdf": {
+			"key": "vlanc-lab/assets/gen-ai-contents/Resources/Unit-1/U-Net_ Convolutional Networks for Biomedical Image Segmentation.pdf",
+			"url": "https://pub-000522b32b43409e9f02812b25914a66.r2.dev/vlanc-lab/assets/gen-ai-contents/Resources/Unit-1/U-Net_%20Convolutional%20Networks%20for%20Biomedical%20Image%20Segmentation.pdf",
+			"size": 1634449,
+			"contentType": "application/pdf",
+			"sha256": "a0df069577f97436ea29eefdf4c003d8f5d54c6df969268aacbc9d2bd3c08fe2"
+		},
+		"/slides/nlp_slide1.pdf": {
+			"key": "vlanc-lab/assets/slides/nlp_slide1.pdf",
+			"url": "https://pub-000522b32b43409e9f02812b25914a66.r2.dev/vlanc-lab/assets/slides/nlp_slide1.pdf",
+			"size": 1641340,
+			"contentType": "application/pdf",
+			"sha256": "a0c8eed6c6711fb059d338d6050f15c296592e2222fd648708df0aaf64c060cb"
+		}
+	}
+}
