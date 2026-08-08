@@ -1,4 +1,4 @@
 1:"$Sreact.fragment"
 2:I[39756,["/mu-nlp-course/_next/static/chunks/9ecc1211474aa148.js","/mu-nlp-course/_next/static/chunks/63e3a8df4a95a078.js","/mu-nlp-course/_next/static/chunks/195c216f52dae3f8.js","/mu-nlp-course/_next/static/chunks/4b1e6380297ab5bc.js","/mu-nlp-course/_next/static/chunks/b071b927eaf0fd0b.js","/mu-nlp-course/_next/static/chunks/d2be314c3ece3fbe.js"],"default"]
 3:I[37457,["/mu-nlp-course/_next/static/chunks/9ecc1211474aa148.js","/mu-nlp-course/_next/static/chunks/63e3a8df4a95a078.js","/mu-nlp-course/_next/static/chunks/195c216f52dae3f8.js","/mu-nlp-course/_next/static/chunks/4b1e6380297ab5bc.js","/mu-nlp-course/_next/static/chunks/b071b927eaf0fd0b.js","/mu-nlp-course/_next/static/chunks/d2be314c3ece3fbe.js"],"default"]
-0:{"buildId":"UU6V-HEHQUMqIGbpPxlDI","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"Wd1Jwtox3MbqFH2X6TxP4","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
